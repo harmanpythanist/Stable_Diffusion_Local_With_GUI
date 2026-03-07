@@ -27,3 +27,7 @@ After download is done, use it by running **TOI_with_gui_working.ipynb**
 
 - pyinstaller --clean --noconfirm --windowed --icon=icon.ico --collect-all torch --collect-all diffusers --collect-all requests toi_working.py
 
+- It will generate app in dist folder.
+  
+Download the model locally and keep in same folder as your app.
+
