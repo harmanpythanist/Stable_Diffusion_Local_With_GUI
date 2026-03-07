@@ -58,6 +58,7 @@ pip install diffusers transformers accelerate safetensors
 pip install pyqt5 pillow
 pip install pyinstaller
 pip install requests
+pip install tensorboard
 ```
 
 ---
