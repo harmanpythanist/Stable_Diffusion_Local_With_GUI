@@ -32,7 +32,7 @@ This will launch the **GUI-based image generator**.
 
 ---
 
-## Development Setup: (Working App)
+## Development Setup: (Working Code folder in repo)
 
 ### Python Version
 ```
