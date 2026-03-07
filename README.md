@@ -6,7 +6,7 @@ The model only needs to be downloaded **once**. After that, image generation wor
 
 ---
 
-## 📥 Download the Model (One-time Setup)
+## Download the Model (One-time Setup)
 
 Run the notebook:
 
@@ -14,13 +14,13 @@ Run the notebook:
 download and use model locally.ipynb
 ```
 
-⚠️ Internet is required only for this step to download the model.
+Internet is required only for this step to download the model.
 
 After the model is downloaded, it will be stored locally and can be reused anytime.
 
 ---
 
-## 🚀 Run the Image Generator
+## Run the Image Generator
 
 Once the model is downloaded, run:
 
@@ -78,7 +78,7 @@ dist/
 
 ---
 
-## 📁 Model Placement
+## Model Placement
 
 Download the model locally and place it in the **same folder as the generated application**.
 
@@ -94,7 +94,7 @@ dist/
 
 ---
 
-## ✨ Features
+## Features
  
 - Works **without internet after setup**   
 - Simple GUI interface  
